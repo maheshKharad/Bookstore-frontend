@@ -8,7 +8,7 @@ function Banner() {
 <div className="space-y-8">
 <h1 className="text-2xl md:text-4xl font-bold">
 Hello, welcomes here to learn <br></br>something{" "}
-<span className="text-pink-500">new everyday!!!</span>
+<span className="text-pink-500">new everyday..!</span>
 </h1>
 <p className="text-sm md:text-x1">
 Lorem, ipsum dolor sit amet consectetur adipiscing elit. Dolor, et
